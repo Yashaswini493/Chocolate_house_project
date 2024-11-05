@@ -3,15 +3,15 @@ Chocolate House Application,
 this is a Python-based command-line application for a fictional Chocolate House. It allows managing seasonal flavors, ingredient inventory, and customer suggestions with allergy concerns using SQLite for data storage. The application follows backend Python standards and can be set up using Docker.
 
 Features
-1. Seasonal Flavors Management
+1. Seasonal Flavors Management:
 Add, view, update, and delete seasonal chocolate flavors.
 Set availability dates for each seasonal flavor.
 
-2. Ingredient Inventory Management
+2. Ingredient Inventory Management:
 Add, view, update, and delete ingredients in stock.
 Track quantity levels and update inventory stock.
 
-3. Customer Suggestions
+3. Customer Suggestions:
 Record customer suggestions for new chocolate flavors.
 Track allergy concerns associated with suggested flavors.
 
